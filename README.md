@@ -1,2 +1,2 @@
 # tf-trainer
-Tensor-flow trainer for action classification and detection
+A attempt, Tensor-flow trainer for action classification and detection
